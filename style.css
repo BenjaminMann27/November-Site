@@ -1,7 +1,5 @@
- .Nap1 {
-    float: right;
-}
-
-body {
+ body {
     background-image: linear-gradient(to right, red , yellow);
   }
+
+  
